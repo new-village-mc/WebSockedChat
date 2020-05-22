@@ -1,0 +1,4 @@
+name: SocketChat
+version: 0.0.1
+author: Evgeniy1357
+main: socketChat.SocketChat
